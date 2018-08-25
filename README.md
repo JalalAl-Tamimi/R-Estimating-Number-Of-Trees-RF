@@ -12,3 +12,9 @@ Two methods to check the optimal number of trees for Random Forests are provided
 These methods are used in the following publications:
 * Al-Tamimi, J., (2017). Revisiting Acoustic Correlates of Pharyngealization in Jordanian and Moroccan Arabic: Implications for Formal Representations. Laboratory Phonology: Journal of the Association for Laboratory Phonology, 8(1): 1-40.
 * Al-Tamimi, J., and Khattab, G. (under review). Acoustic correlates of the voicing contrast in Lebanese Arabic singleton and geminate plosives. Invited manuscript for the special issue of Journal of Phonetics, “Marking 50 Years of Research on Voice Onset Time and the Voicing Contrast in the World’s Languages" (eds., T. Cho, G. Docherty & D. Whalen).
+
+
+To cite the analyses, use: 
+
+[![DOI](https://zenodo.org/badge/122322784.svg)](https://zenodo.org/badge/latestdoi/122322784)
+

@@ -1,3 +1,5 @@
+To cite, use: [![DOI](https://zenodo.org/badge/122322784.svg)](https://zenodo.org/badge/latestdoi/122322784)
+
 This script "estimateDensityAnd_ntree.R" provides a calculation of the Density-Based Metric to estimate the density of a dataframe. 
 A simulated dataframe is provided with a binomial outcome for classification purpose and 10 predictors. Some predictors are informative (X1, X2 and X8). 
 X3 to X7 are non-informative but are correlated with either X1 or X2. This is a normal type of data in phonetics research.
